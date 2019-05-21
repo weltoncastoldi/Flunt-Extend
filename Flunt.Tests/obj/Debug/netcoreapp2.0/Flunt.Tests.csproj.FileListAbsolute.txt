@@ -1,0 +1,17 @@
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\bin\Debug\netcoreapp2.0\Flunt.Tests.deps.json
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\bin\Debug\netcoreapp2.0\Flunt.Tests.runtimeconfig.json
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\bin\Debug\netcoreapp2.0\Flunt.Tests.runtimeconfig.dev.json
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\bin\Debug\netcoreapp2.0\Flunt.Tests.dll
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\bin\Debug\netcoreapp2.0\Flunt.Tests.pdb
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\bin\Debug\netcoreapp2.0\Flunt.dll
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\bin\Debug\netcoreapp2.0\Flunt.pdb
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\obj\Debug\netcoreapp2.0\Flunt.Tests.csprojAssemblyReference.cache
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\obj\Debug\netcoreapp2.0\Flunt.Tests.csproj.CoreCompileInputs.cache
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\obj\Debug\netcoreapp2.0\Flunt.Tests.AssemblyInfoInputs.cache
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\obj\Debug\netcoreapp2.0\Flunt.Tests.AssemblyInfo.cs
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\obj\Debug\netcoreapp2.0\Flunt.Tests.csproj.CopyComplete
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\obj\Debug\netcoreapp2.0\Flunt.Tests.dll
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt.Tests\obj\Debug\netcoreapp2.0\Flunt.Tests.pdb

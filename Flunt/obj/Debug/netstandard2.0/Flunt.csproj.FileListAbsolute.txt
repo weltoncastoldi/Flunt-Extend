@@ -1,0 +1,8 @@
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt\bin\Debug\netstandard2.0\Flunt.deps.json
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt\bin\Debug\netstandard2.0\Flunt.dll
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt\bin\Debug\netstandard2.0\Flunt.pdb
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt\obj\Debug\netstandard2.0\Flunt.csproj.CoreCompileInputs.cache
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt\obj\Debug\netstandard2.0\Flunt.AssemblyInfoInputs.cache
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt\obj\Debug\netstandard2.0\Flunt.AssemblyInfo.cs
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt\obj\Debug\netstandard2.0\Flunt.dll
+C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt\obj\Debug\netstandard2.0\Flunt.pdb
