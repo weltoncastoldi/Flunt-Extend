@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Flunt.Notifications
+namespace FluntExtendBr.Notifications
 {
     public abstract class Notifiable
     {

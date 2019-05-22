@@ -2,9 +2,9 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Flunt.Validations;
+using FluntExtendBr.Validations;
 
-namespace Flunt.Tests
+namespace FluntExtendBr.Tests
 {
     [TestClass]
     public class LongContractTests

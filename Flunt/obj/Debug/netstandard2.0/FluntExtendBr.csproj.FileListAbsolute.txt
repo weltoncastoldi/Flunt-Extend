@@ -1,0 +1,8 @@
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\bin\Debug\netstandard2.0\FluntExtendBr.deps.json
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\bin\Debug\netstandard2.0\FluntExtendBr.dll
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\bin\Debug\netstandard2.0\FluntExtendBr.pdb
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\obj\Debug\netstandard2.0\FluntExtendBr.csproj.CoreCompileInputs.cache
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\obj\Debug\netstandard2.0\FluntExtendBr.AssemblyInfoInputs.cache
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\obj\Debug\netstandard2.0\FluntExtendBr.AssemblyInfo.cs
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\obj\Debug\netstandard2.0\FluntExtendBr.dll
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\obj\Debug\netstandard2.0\FluntExtendBr.pdb

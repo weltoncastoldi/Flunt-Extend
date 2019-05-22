@@ -1,4 +1,4 @@
-namespace Flunt.Validations
+namespace FluntExtendBr.Validations
 {
     public interface IValidatable
     {

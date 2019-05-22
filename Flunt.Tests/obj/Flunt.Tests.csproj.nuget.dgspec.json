@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt.Tests\\Flunt.Tests.csproj": {}
+    "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt.Tests\\Flunt.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt.Tests\\Flunt.Tests.csproj": {
+    "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt.Tests\\Flunt.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt.Tests\\Flunt.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt.Tests\\Flunt.Tests.csproj",
         "projectName": "Flunt.Tests",
-        "projectPath": "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt.Tests\\Flunt.Tests.csproj",
-        "packagesPath": "C:\\Users\\welto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt.Tests\\obj\\",
+        "projectPath": "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt.Tests\\Flunt.Tests.csproj",
+        "packagesPath": "C:\\Users\\welton.castoldi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\welto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\welton.castoldi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.0": {
             "projectReferences": {
-              "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt\\Flunt.csproj": {
-                "projectPath": "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt\\Flunt.csproj"
+              "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt\\FluntExtendBr.csproj": {
+                "projectPath": "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt\\FluntExtendBr.csproj"
               }
             }
           }
@@ -71,20 +71,20 @@
         }
       }
     },
-    "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt\\Flunt.csproj": {
-      "version": "1.0.3",
+    "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt\\FluntExtendBr.csproj": {
+      "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt\\Flunt.csproj",
-        "projectName": "Flunt",
-        "projectPath": "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt\\Flunt.csproj",
-        "packagesPath": "C:\\Users\\welto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt\\obj\\",
+        "projectUniqueName": "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt\\FluntExtendBr.csproj",
+        "projectName": "FluntExtendBr",
+        "projectPath": "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt\\FluntExtendBr.csproj",
+        "packagesPath": "C:\\Users\\welton.castoldi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\welto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\welton.castoldi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

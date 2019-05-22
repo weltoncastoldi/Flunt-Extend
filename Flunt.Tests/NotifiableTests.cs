@@ -1,10 +1,10 @@
-﻿using Flunt.Validations;
+﻿using FluntExtendBr.Validations;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
-using Flunt.Notifications;
+using FluntExtendBr.Notifications;
 
-namespace Flunt.Tests
+namespace FluntExtendBr.Tests
 {
     [TestClass]
     public class NotifiableTests : Notifiable

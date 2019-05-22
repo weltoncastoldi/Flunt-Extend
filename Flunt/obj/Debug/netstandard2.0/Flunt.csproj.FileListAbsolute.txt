@@ -6,3 +6,12 @@ C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt\obj\Debug\netstandard2.0\
 C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt\obj\Debug\netstandard2.0\Flunt.AssemblyInfo.cs
 C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt\obj\Debug\netstandard2.0\Flunt.dll
 C:\Users\welto\Desktop\flunt-master\flunt-master\Flunt\obj\Debug\netstandard2.0\Flunt.pdb
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\bin\Debug\netstandard2.0\Flunt.deps.json
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\bin\Debug\netstandard2.0\Flunt.dll
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\bin\Debug\netstandard2.0\Flunt.pdb
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\obj\Debug\netstandard2.0\Flunt.csprojAssemblyReference.cache
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\obj\Debug\netstandard2.0\Flunt.csproj.CoreCompileInputs.cache
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\obj\Debug\netstandard2.0\Flunt.AssemblyInfoInputs.cache
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\obj\Debug\netstandard2.0\Flunt.AssemblyInfo.cs
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\obj\Debug\netstandard2.0\Flunt.dll
+C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\obj\Debug\netstandard2.0\Flunt.pdb

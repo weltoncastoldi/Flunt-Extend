@@ -1,8 +1,8 @@
-﻿using Flunt.Validations.Contracts;
+﻿using FluntExtendBr.Validations.Contracts;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace Flunt.Validations.Document
+namespace FluntExtendBr.Validations.Document
 {
     internal class Phone : IValidate
     {

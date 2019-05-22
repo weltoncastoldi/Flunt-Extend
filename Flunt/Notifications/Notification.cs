@@ -1,4 +1,4 @@
-namespace Flunt.Notifications
+namespace FluntExtendBr.Notifications
 {
     public sealed class Notification
     {

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FluntExtendBr</id>
+    <version>1.0.1</version>
+    <authors>Welton Castoldi</authors>
+    <owners>Welton Castoldi</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Está é apenas uma combinação do Flunt + Flunt.Br</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\welton.castoldi\Source\Repos\weltoncastoldi\Flunt-Extend\Flunt\bin\Debug\netstandard2.0\FluntExtendBr.dll" target="lib\netstandard2.0\FluntExtendBr.dll" />
+  </files>
+</package>

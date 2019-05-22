@@ -1,4 +1,4 @@
-﻿namespace Flunt.Validations.Contracts
+﻿namespace FluntExtendBr.Validations.Contracts
 {
     internal interface IValidate
     {

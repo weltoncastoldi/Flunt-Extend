@@ -1601,14 +1601,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Flunt/1.0.3": {
+      "FluntExtendBr/1.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Flunt.dll": {}
+          "bin/placeholder/FluntExtendBr.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Flunt.dll": {}
+          "bin/placeholder/FluntExtendBr.dll": {}
         }
       }
     }
@@ -5722,15 +5722,15 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Flunt/1.0.3": {
+    "FluntExtendBr/1.0.1": {
       "type": "project",
-      "path": "../Flunt/Flunt.csproj",
-      "msbuildProject": "../Flunt/Flunt.csproj"
+      "path": "../Flunt/FluntExtendBr.csproj",
+      "msbuildProject": "../Flunt/FluntExtendBr.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Flunt >= 1.0.3",
+      "FluntExtendBr >= 1.0.1",
       "MSTest.TestAdapter >= 1.1.18",
       "MSTest.TestFramework >= 1.1.18",
       "Microsoft.NET.Test.Sdk >= 15.3.0-preview-20170628-02",
@@ -5738,23 +5738,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\welto\\.nuget\\packages\\": {},
+    "C:\\Users\\welton.castoldi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt.Tests\\Flunt.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt.Tests\\Flunt.Tests.csproj",
       "projectName": "Flunt.Tests",
-      "projectPath": "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt.Tests\\Flunt.Tests.csproj",
-      "packagesPath": "C:\\Users\\welto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt.Tests\\obj\\",
+      "projectPath": "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt.Tests\\Flunt.Tests.csproj",
+      "packagesPath": "C:\\Users\\welton.castoldi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\welto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\welton.castoldi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5767,8 +5767,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt\\Flunt.csproj": {
-              "projectPath": "C:\\Users\\welto\\Desktop\\flunt-master\\flunt-master\\Flunt\\Flunt.csproj"
+            "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt\\FluntExtendBr.csproj": {
+              "projectPath": "C:\\Users\\welton.castoldi\\Source\\Repos\\weltoncastoldi\\Flunt-Extend\\Flunt\\FluntExtendBr.csproj"
             }
           }
         }

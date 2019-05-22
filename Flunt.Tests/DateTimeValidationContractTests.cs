@@ -1,9 +1,9 @@
-﻿using Flunt.Validations;
+﻿using FluntExtendBr.Validations;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using Fluent.Tests.Entities;
 
-namespace Flunt.Tests
+namespace FluntExtendBr.Tests
 {
     [TestClass]
     public class DateTimeContractTests

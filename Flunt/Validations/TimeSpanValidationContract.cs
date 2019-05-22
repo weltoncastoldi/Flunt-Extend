@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Flunt.Validations
+namespace FluntExtendBr.Validations
 {
 	public partial class Contract
     {

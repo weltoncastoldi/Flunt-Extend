@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using System.Text.RegularExpressions;	
 
-namespace Flunt.Validations
+namespace FluntExtendBr.Validations
 {
     public partial class Contract
     {

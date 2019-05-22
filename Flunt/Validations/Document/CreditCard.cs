@@ -1,9 +1,9 @@
 ﻿using System.Linq;
 using System.Text.RegularExpressions;
-using Flunt.Validations.Contracts;
+using FluntExtendBr.Validations.Contracts;
 
 
-namespace Flunt.Validations.Document
+namespace FluntExtendBr.Validations.Document
 {
     internal class CreditCard : IValidate
     {

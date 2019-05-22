@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Linq.Expressions;
-using Flunt.Notifications;
+using FluntExtendBr.Notifications;
 
-namespace Flunt.Validations
+namespace FluntExtendBr.Validations
 {
     public partial class Contract : Notifiable
     {

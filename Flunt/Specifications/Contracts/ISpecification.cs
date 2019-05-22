@@ -1,6 +1,6 @@
-using Flunt.Validations;
+using FluntExtendBr.Validations;
 
-namespace Flunt.Specifications
+namespace FluntExtendBr.Specifications
 {
     public interface ISpecification
     {

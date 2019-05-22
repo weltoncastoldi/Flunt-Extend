@@ -1,6 +1,6 @@
-﻿using Flunt.Validations.Contracts;
+﻿using FluntExtendBr.Validations.Contracts;
 
-namespace Flunt.Validations.Contracts
+namespace FluntExtendBr.Validations.Contracts
 {
     internal class Cnpj : IValidate
     {

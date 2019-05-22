@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2008
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flunt", "Flunt\Flunt.csproj", "{ACE12F9D-6B80-404A-9771-CDCFC40B5AD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluntExtendBr", "Flunt\FluntExtendBr.csproj", "{ACE12F9D-6B80-404A-9771-CDCFC40B5AD8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flunt.Tests", "Flunt.Tests\Flunt.Tests.csproj", "{D9D65F98-DD7D-4395-BEF4-FEABDCFE1BEC}"
 EndProject

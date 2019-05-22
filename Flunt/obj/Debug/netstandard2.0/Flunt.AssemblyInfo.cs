@@ -11,14 +11,14 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("balta.io")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Welton Castoldi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Flunt is a fluent way to use Notification Pattern with your entities")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.3.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.3")]
-[assembly: System.Reflection.AssemblyProductAttribute("Flunt")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Flunt")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.3.0")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Está é apenas uma combinação do Flunt + Flunt.Br")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("FluntExtendBr")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FluntExtendBr")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 

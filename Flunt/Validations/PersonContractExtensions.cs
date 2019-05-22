@@ -1,9 +1,9 @@
-﻿using Flunt.Validations.Contracts;
+﻿using FluntExtendBr.Validations.Contracts;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Flunt.Validations
+namespace FluntExtendBr.Validations
 {
     public static partial class ContractExtensions
     {

@@ -1,8 +1,8 @@
 using Fluent.Tests.Entities;
-using Flunt.Validations;
+using FluntExtendBr.Validations;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Flunt.Tests
+namespace FluntExtendBr.Tests
 {
     [TestClass]
     public class ConditionalValidationContractTests
